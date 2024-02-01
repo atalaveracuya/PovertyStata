@@ -1,41 +1,41 @@
-## Propuesta de Capacitación en Metodologías de Medición de Pobreza con Stata
-# Objetivo General:
+# Propuesta de Capacitación en Metodologías de Medición de Pobreza con Stata
+## Objetivo General:
 Capacitar a economistas en las metodologías avanzadas de medición de pobreza, permitiéndoles adquirir habilidades prácticas para analizar datos socioeconómicos utilizando la Encuesta Nacional de Hogares y el programa informático de Stata. 
-# Duración:
+## Duración:
 8 clases (1 hora por clase, 2 clases por semana)
-# Módulo 1: Introducción a la Medición de Pobreza y la Encuesta Nacional de Hogares
+## Clase 1: Introducción a la Medición de Pobreza y la Encuesta Nacional de Hogares
 •	Definición y dimensiones de la pobreza.
 •	Importancia de la Encuesta Nacional de Hogares en la medición socioeconómica.
 •	Introducción a Stata para análisis de datos.
-# Módulo 2: Método de Líneas de Pobreza
+## Clase 2: Método de Líneas de Pobreza
 •	Conceptos clave y fundamentos del método.
 •	Aplicación práctica utilizando datos de la Encuesta Nacional de Hogares.
 •	Análisis de tendencias y variaciones en la pobreza.
-# Módulo 3: Método de las Necesidades Básicas Insatisfechas (NBI)
+## Clase 3: Método de las Necesidades Básicas Insatisfechas (NBI)
 •	Componentes y evaluación de necesidades básicas.
 •	Implementación del método NBI con datos de la ENH.
 •	Comparación y combinación con otras metodologías.
-# Módulo 4: Método de Medición Integrado
+## Clase 4: Método de Medición Integrado
 •	Integración de dimensiones en la medición de la pobreza.
 •	Utilización de Stata para análisis integrado.
 •	Evaluación de ventajas y desafíos.
-# Módulo 5: Método Multidimensional
+## Clase 5: Método Multidimensional
 •	Conceptos fundamentales y construcción de índices multidimensionales.
 •	Aplicación práctica con datos de la ENH.
 •	Visualización de resultados mediante software estadístico.
-# Módulo 6: Método de la Vulnerabilidad
+## Clase 6: Método de la Vulnerabilidad
 •	Identificación de poblaciones vulnerables utilizando la ENH.
 •	Análisis de factores de vulnerabilidad.
 •	Evaluación de la vulnerabilidad en Stata.
-# Módulo 7: Aplicación Práctica con Software Estadístico
+## Clase 7: Aplicación Práctica con Software Estadístico
 •	Importación y manipulación de datos socioeconómicos en Stata.
 •	Desarrollo de ejercicios prácticos utilizando las metodologías estudiadas.
 •	Resolución de problemas y dudas específicas de los participantes.
-# Módulo 8: Proyecto Final y Evaluación
+## Clase 8: Proyecto Final y Evaluación
 •	Aplicación de una metodología de medición de pobreza a elección por parte de los participantes.
 •	Análisis detallado utilizando Stata.
 •	Presentación y discusión de resultados.
-# Recursos:
+## Recursos:
 •	Material de lectura y casos prácticos.
 •	Acceso a bases de datos simuladas y reales.
 •	Soporte técnico para el uso de Stata.
